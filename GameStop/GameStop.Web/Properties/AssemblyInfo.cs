@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie los valores de estos atributos para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("GameStop.Win")]
+[assembly: AssemblyTitle("GameStop.Web")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("GameStop.Win")]
+[assembly: AssemblyProduct("GameStop.Web")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID es para el Id. typelib cuando este proyecto esté expuesto a COM
-[assembly: Guid("b7530c0c-eb1f-4ee5-8288-5265817406d3")]
+[assembly: Guid("ff139726-c525-4a38-9f53-293d1be6ed66")]
 
 // La información de versión de un ensamblado consta de los siguientes cuatro valores:
 //
